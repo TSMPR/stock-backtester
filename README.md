@@ -77,7 +77,3 @@ print(result.metrics())
 - Position sizing and stop losses
 - Multi-asset portfolios
 - Parameter grid search with out-of-sample validation
-
-## License
-
-MIT
